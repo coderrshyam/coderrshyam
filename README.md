@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about creating exceptional web expe
 
 ### 🚀 Quick Facts
 
-- 🔭 I'm currently working on my [Portfolio Website](https://www.coderrshyam.tech)
+- 🔭 I'm currently working on my [Portfolio Website](https://coderrshyam.vercel.app)
 - 🌱 I'm diving deep into ![Static Badge](https://img.shields.io/badge/Next.js-blue) to level up my development skills
 - 👨🏼‍💻 Proudly coding professionally since 2022
 - 💬 Feel free to ask me anything about web development - I love sharing knowledge!
@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm passionate about creating exceptional web expe
 
 ### 📫 Let's Connect
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://www.coderrshyam.tech/discord) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.coderrshyam.tech/facebook) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.coderrshyam.tech/instagram) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.coderrshyam.tech/linkedin) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.coderrshyam.tech/reddit) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://www.coderrshyam.tech/stackoverflow) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://www.coderrshyam.tech/twitter) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.coderrshyam.tech/youtube)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://coderrshyam.vercel.app/twitter) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://coderrshyam.vercel.app/instagram) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://coderrshyam.vercel.app/linkedin)
 
 ### ⚡ Fun Fact
 
