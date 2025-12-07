@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm passionate about creating exceptional web expe
 
 ### 📫 Let's Connect
 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://coderrshyam.vercel.app/twitter) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://coderrshyam.vercel.app/instagram) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://coderrshyam.vercel.app/linkedin)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://coderrshyam.vercel.app/twitter) [![Contact](https://img.shields.io/badge/Contact_US-blue)](https://coderrshyam.vercel.app/contact) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://coderrshyam.vercel.app/instagram) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://coderrshyam.vercel.app/linkedin)
 
 ### ⚡ Fun Fact
 
