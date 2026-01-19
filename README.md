@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about creating exceptional web expe
 ### 🚀 Quick Facts
 
 - 🔭 I'm currently working on my [Portfolio Website](https://coderrshyam.vercel.app)
-- 🌱 I'm diving deep into ![Static Badge](https://img.shields.io/badge/Next.js-blue) to level up my development skills
+- 🌱 I'm diving deep into `Next.js` to level up my development skills
 - 👨🏼‍💻 Proudly coding professionally since 2022
 - 💬 Feel free to ask me anything about web development - I love sharing knowledge!
 - 😄 Pronouns: He/Him
